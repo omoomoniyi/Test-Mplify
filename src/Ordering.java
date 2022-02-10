@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 
 public class Ordering {
 	
-@Test
 	public static void main(String[] args) throws InterruptedException {
 		
 		WebDriver driver; String driverLocation = "C:\\Users\\OMONIYI\\eclipse-workspace\\Omnibiz\\Executables\\chromedriver.exe";
